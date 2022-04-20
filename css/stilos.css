@@ -1,5 +1,12 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color:black;
+    color:rgb(48, 46, 46);
+}
+.container{
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
