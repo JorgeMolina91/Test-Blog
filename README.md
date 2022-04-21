@@ -1,2 +1,2 @@
 # Test-Blog
-A test to check all the possibilities that Github has!
+A test to check all the features that Github has!
